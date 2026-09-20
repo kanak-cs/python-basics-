@@ -1,4 +1,4 @@
- # Hi there, I'm Kanak! 👋
+ # Hi there, This is Kanak! 👋
 
 **B.Sc. Computer Science Student (Sem 1)** 🚀
 Building automation scripts and mastering Python logic.
