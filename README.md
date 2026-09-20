@@ -12,7 +12,7 @@ Building automation scripts and mastering Python logic.
 ### 🐍 Current Projects
 * **[Number Guessing Game](https://github.com)**: A logical command-line game built using loops and conditional logic.
   
-[![Open In Colab](https://google.com)](https://google.com)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://google.com)
 
 
 ### 🎯 Semester 1 Goals
