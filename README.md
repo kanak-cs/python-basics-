@@ -1,4 +1,4 @@
- # Hi there, This is Kanak! 👋
+ # Hi there, I'm Kanak! 👋
 
 **B.Sc. Computer Science Student (Sem 1)** 🚀
 Building automation scripts and mastering Python logic.
@@ -11,6 +11,8 @@ Building automation scripts and mastering Python logic.
 
 ### 🐍 Current Projects
 * **[Number Guessing Game](https://github.com)**: A logical command-line game built using loops and conditional logic.
+  
+  [![Binder](https://mybinder.org)](https://mybinder.org) ← **Click here to play my game online instantly!**
 
 ### 🎯 Semester 1 Goals
 * Maintain a **7.5+ CGPA**
